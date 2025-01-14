@@ -10,7 +10,8 @@ public class Parallelogram {
                 for(int k=0; k<i; k++){
                     System.out.print(" ");
            
-                 }
+                 
+                }
          
         }
 
