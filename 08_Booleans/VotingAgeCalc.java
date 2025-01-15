@@ -1,4 +1,4 @@
-import java.util.Scanner;  // Import the Scanner class
+import java.util.*;  // Import the Scanner class
 public class VotingAgeCalc {
     public static void main(String[] args){
     int myAge=25;
