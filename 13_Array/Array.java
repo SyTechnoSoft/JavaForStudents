@@ -9,6 +9,8 @@ public class Array {
         System.out.println(Arrays.toString(name)); //[Saurabh Yadav, Abhishek Yadav, Gaurav Yadav, Aashu Yadav]
         System.out.println(name[0]); //Saurabh Yadav
         System.out.println(name.length); //4
+        name[0] = "Saurabh Kumar Yadav";
+        System.out.println(name[0]); //Saurabh Kumar Yadav
 
 
        // System.out.println(num); //[I@372f7a8d
