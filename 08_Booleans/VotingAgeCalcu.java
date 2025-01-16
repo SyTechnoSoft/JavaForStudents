@@ -1,4 +1,5 @@
 import java.util.*;  // import the Scanner class
+
 public class VotingAgeCalcu {
     public static void main(String[] args){
     int myAge=25;
