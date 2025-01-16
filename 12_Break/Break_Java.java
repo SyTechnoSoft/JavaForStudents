@@ -9,3 +9,6 @@ public class Break_Java {
         }
     }
 }
+/*The break statement can also be used to jump out of a loop.
+
+This example stops the loop when i is equal to 5: */
