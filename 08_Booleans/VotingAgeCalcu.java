@@ -1,5 +1,5 @@
-import java.util.*;  // Import the Scanner class
-public class VotingAgeCalc {
+import java.util.*;  // import the Scanner class
+public class VotingAgeCalcu {
     public static void main(String[] args){
     int myAge=25;
     Scanner scanner = new Scanner(System.in);  // Create a Scanner object
