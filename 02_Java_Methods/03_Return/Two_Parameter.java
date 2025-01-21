@@ -3,7 +3,7 @@ public class Two_Parameter {
         System.out.println(myMethod(5,4));
     }
     static int myMethod(int x, int y){
-        return x+y;
+        return x + y;
 
     }
     
