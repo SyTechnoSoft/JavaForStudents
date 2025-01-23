@@ -1,4 +1,3 @@
-
 public class PlusMethod {
     static int plusMethod(int x, int y) {
         return x + y;
