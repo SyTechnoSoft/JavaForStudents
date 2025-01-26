@@ -1,7 +1,7 @@
 public class Halting_Condition {
 
     public static void main(String[] args) {
-    int result = sum(5, 10);
+    int result = sum(50, 10);
     System.out.println(result);
   }
   public static int sum(int start, int end) {
