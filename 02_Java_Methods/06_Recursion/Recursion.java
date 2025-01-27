@@ -2,7 +2,7 @@
 public class Recursion {
     
     public static void main(String[] args) {
-        int result = sum(10);
+        int result = sum(15);
         System.out.println(result);
       }
       public static int sum(int k) {
