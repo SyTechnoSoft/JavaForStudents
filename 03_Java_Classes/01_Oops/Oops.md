@@ -17,26 +17,26 @@ Classes and objects are the two main aspects of object-oriented programming.
 Look at the following illustration to see the difference between class and objects:
 
 ->class
-Fruit
+->Fruit
 
-objects
-Apple
+->objects
+->Apple
 
-Banana
+->Banana
 
-Mango
+->Mango
 
-Another example:
+->Another example:
 
-class
-Car
+->class
+->Car
 
-objects
-Volvo
+->objects
+->Volvo
 
-Audi
+->Audi
 
-Toyota
+->Toyota
 
 So, a class is a template for objects, and an object is an instance of a class.
 
