@@ -38,7 +38,7 @@ Look at the following illustration to see the difference between class and objec
 
 ->  Toyota
 
-So, a class is a template for objects, and an object is an instance of a class.
+**So, a class is a template for objects, and an object is an instance of a class.
 
 When the individual objects are created, they inherit all the variables and methods from the class.
 
