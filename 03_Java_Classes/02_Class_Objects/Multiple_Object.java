@@ -6,7 +6,8 @@ public class Multiple_Object {
         //Object 1
         Multiple_Object obj1 = new Multiple_Object();  
         
-        Multiple_Object obj2 = new Multiple_Object();  //Object 2
+        //Object 2
+        Multiple_Object obj2 = new Multiple_Object();  
         System.out.println(obj1.x);
         System.out.println(obj2.y);
 
