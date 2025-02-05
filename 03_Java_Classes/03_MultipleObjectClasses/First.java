@@ -1,7 +1,7 @@
 
 public class First {
 
-    int x = 5;
+    int x = 50;
 
     
 }
