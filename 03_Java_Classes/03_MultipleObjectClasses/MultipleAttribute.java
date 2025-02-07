@@ -2,7 +2,7 @@ public class MultipleAttribute {
 
     String firstName="Saurabh";
     String lastName="Yadav";
-    int age =22;
+    int age =21;
 
     public static void main (String[] args){
         MultipleAttribute myObj = new MultipleAttribute();
