@@ -8,5 +8,16 @@ public class ConstructorParameters {
     int x;  // Create a class attribute
 
     // Create a class constructor
+
+    public ConstructorParameters(int y){
+        x=y;
+    }
+
+    public static void main(String[] args) {
+        ConstructorParameters constructorParameters = new ConstructorParameters(10);
+        System.out.println(constructorParameters.x);
+    }
 }
+
+// Outputs 10
 
