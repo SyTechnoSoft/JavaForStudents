@@ -14,9 +14,9 @@ public class ConstructorParameters {
     }
 
     public static void main(String[] args) {
-        ConstructorParameters constructorParameters = new ConstructorParameters(10);
+        ConstructorParameters constructorParameters = new ConstructorParameters(100);
         System.out.println(constructorParameters.x);
     }
 }
 
-// Outputs 10
+// Outputs 100
