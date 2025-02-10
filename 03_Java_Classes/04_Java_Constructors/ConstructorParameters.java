@@ -20,4 +20,3 @@ public class ConstructorParameters {
 }
 
 // Outputs 10
-
