@@ -9,6 +9,6 @@ public class ConstructorParameters2 {
 
   public static void main(String[] args) {
     ConstructorParameters2 myCar = new ConstructorParameters2(1969, "Mustang");
-    System.out.println(myCar.modelYear + " " + myCar.modelName);
+    System.out.println(myCar.modelYear + "\n" + myCar.modelName);
   }
 }
