@@ -8,9 +8,9 @@ public class FinalKeyword {
 
     public static void main(String[] args){
         FinalKeyword finalKeyword = new FinalKeyword();
-        finalKeyword.x = 50; // will generate an error: cannot assign a value to a final variable
-        finalKeyword.PI = 25; // will generate an error: cannot assign a value to a final variable
-        Sysytem.out.println(finalKeyword.x);
+       // finalKeyword.x = 50; // will generate an error: cannot assign a value to a final variable
+       // finalKeyword.PI = 25; // will generate an error: cannot assign a value to a final variable
+        System.out.println(finalKeyword.x);
 
     }
     
