@@ -4,7 +4,7 @@
 public class FinalKeyword {
 
     final int x = 10; // x is a final attribute
-    final double  PI = 3.14; // PI is a final attribute
+    //final double  PI = 3.14; // PI is a final attribute
 
     public static void main(String[] args){
         FinalKeyword finalKeyword = new FinalKeyword();
