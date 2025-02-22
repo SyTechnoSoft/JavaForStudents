@@ -2,8 +2,8 @@
 
 abstract  class Abstract {
 
-    public String fname = "John";
-  public int age = 24;
+    public String fname = "Saurabh";
+  public int age = 22;
   public abstract void study(); // abstract method
     
 }
