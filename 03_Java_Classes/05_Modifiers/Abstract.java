@@ -1,5 +1,3 @@
-
-
 abstract  class Abstract {
 
     public String fname = "Saurabh";
