@@ -5,7 +5,7 @@ public class Encapsulation {
 
         GetSet getSet = new GetSet();
         getSet.setName("Saurabh");
-        getSet.setAge(25);
+        getSet.setAge(22);
         System.out.println(getSet.getName()+" is "+getSet.age()+" years old.");
     }
     
