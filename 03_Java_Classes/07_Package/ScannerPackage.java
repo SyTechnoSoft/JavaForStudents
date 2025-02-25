@@ -1,5 +1,4 @@
-/*
-Java Packages & API
+/*Java Packages & API
 A package in Java is used to group related classes. Think of it as a folder in a file directory. We use packages to avoid name conflicts, and to write a better maintainable code. Packages are divided into two categories:
 
 Built-in Packages (packages from the Java API)
@@ -12,8 +11,12 @@ The library contains components for managing input, database programming, and mu
 The library is divided into packages and classes. Meaning you can either import a single class (along with its methods and attributes), or a whole package that contain all the classes that belong to the specified package.
 
 To use a class or a package from the library, you need to use the import keyword:
-*/
 
+
+
+import package.name.Class;   // Import a single class
+import package.name.*;   // Import the whole package
+*/
 import java.util.Scanner;
 public class ScannerPackage {
     public static void main(String[] args){
