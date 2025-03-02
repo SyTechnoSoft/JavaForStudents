@@ -18,27 +18,13 @@ public class EnumInSwitch {
       
 
         switch(day){
-            case SUNDAY:
-                System.out.println("It's Sunday");
-                break;
-            case MONDAY:
-                System.out.println("It's Monday");
-                break;
-            case TUESDAY:
-                System.out.println("It's Tuesday");
-                break;
-            case WEDNESDAY:
-                System.out.println("It's Wednesday");
-                break;
-            case THURSDAY:
-                System.out.println("It's Thursday");
-                break;
-            case FRIDAY:
-                System.out.println("It's Friday");
-                break;
-            case SATURDAY:
-                System.out.println("It's Saturday");
-                break;
+            case SUNDAY -> System.out.println("It's Sunday");
+            case MONDAY -> System.out.println("It's Monday");
+            case TUESDAY -> System.out.println("It's Tuesday");
+            case WEDNESDAY -> System.out.println("It's Wednesday");
+            case THURSDAY -> System.out.println("It's Thursday");
+            case FRIDAY -> System.out.println("It's Friday");
+            case SATURDAY -> System.out.println("It's Saturday");
           
         }
 
