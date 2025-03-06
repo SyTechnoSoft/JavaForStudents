@@ -3,7 +3,7 @@ import java.util.Collections;
 public class SortListInt {
 
     public static void main (String[] args){
-        ArrayList<Integer> numbers = new ArrayList <Integer>();
+        ArrayList<Integer> numbers = new ArrayList<Integer>();
         numbers.add(10);
         numbers.add(5);
         numbers.add(8);
