@@ -15,3 +15,5 @@ public class Throw {
     }
     
 }
+//output
+// Access granted - You are old enough!
